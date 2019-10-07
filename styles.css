@@ -1,0 +1,48 @@
+/* tag selectors*/
+body {
+    background-color: #701FA9;
+}
+
+h1 {
+    color: rgb(181, 100, 184);
+}
+@media only screen and (max-width: 1000px){
+    body {
+        background-color: lightblue;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    body {
+        background-color: lightblue;
+    }
+}
+
+@media only screen and (max-width: 800px){
+    body {
+        background-color:rebeccapurple;
+    }
+}
+@media only screen and (max-width: 600px){
+    body {
+        background-color: greenyellow;
+    }
+}
+@media only screen and (max-width: 200px){
+    body {
+        background-color: blue;
+    }
+}
+
+div {
+    background-color: aquamarine;
+    margin-left: 25%;
+    margin-right: 25%;      
+    
+}
+@media screen  and (max-width: 450px) {
+    div {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
